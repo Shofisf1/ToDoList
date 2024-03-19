@@ -1,3 +1,5 @@
-##LatihanTodoApp
---shofi siti fatimah
---21552011022
+# Tugas (Todoapp)
+<ul>
+  <li>Tugas: {TodoApp}</li>
+  <li>Nama: {Shofi Siti Fatimah}</li>
+</ul>
